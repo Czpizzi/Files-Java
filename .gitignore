@@ -1,0 +1,44 @@
+# =========================
+# Arquivos e pastas do Eclipse
+# =========================
+.classpath
+.project
+.settings/
+
+# =========================
+# Arquivos compilados
+# =========================
+bin/
+target/
+out/
+*.class
+
+# =========================
+# Logs e arquivos temporários
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Arquivos do sistema operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Dependências locais (se houver Maven/Gradle)
+# =========================
+/.mvn/
+.mvnw
+.mvnw.cmd
+.gradle/
+build/
+
+# =========================
+# IDEs adicionais (caso você mude de ambiente)
+# =========================
+.vscode/
+.idea/
